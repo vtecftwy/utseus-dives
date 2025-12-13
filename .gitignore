@@ -1,0 +1,35 @@
+# Python cache / build
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.build/
+dist/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment & secrets
+.env
+*.env
+
+# IDE / editor configs
+.vscode/
+.idea/
+*.swp
+
+# Data and Saved Models
+**/data/
+**/models/
+**/db/
+
+# WIP documents
+*/wip_*
+
+# specifics
+imgs/ft-fp.jpg
+imgs/uAI-team.jpg

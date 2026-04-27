@@ -26,6 +26,7 @@ env/
 **/data/
 **/models/
 **/db/
+nbs/images/
 
 # WIP documents
 */wip_*

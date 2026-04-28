@@ -27,6 +27,7 @@ env/
 **/models/
 **/db/
 nbs/images/
+nbs/tf_vae
 
 # WIP documents
 */wip_*

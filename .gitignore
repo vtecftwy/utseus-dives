@@ -35,3 +35,4 @@ nbs/tf_vae
 # specifics
 imgs/ft-fp.jpg
 imgs/uAI-team.jpg
+nbs/*-empty.ipynb

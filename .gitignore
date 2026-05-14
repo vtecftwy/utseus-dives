@@ -28,6 +28,7 @@ env/
 **/db/
 nbs/images/
 nbs/tf_vae
+**/temp/*
 
 # WIP documents
 */wip_*
@@ -36,3 +37,4 @@ nbs/tf_vae
 imgs/ft-fp.jpg
 imgs/uAI-team.jpg
 nbs/*-empty.ipynb
+nbs/WIP*.ipynb

@@ -27,6 +27,7 @@ env/
 **/models/
 **/db/
 nbs/images/
+nbs/images-cleaned/
 nbs/tf_vae
 **/temp/*
 

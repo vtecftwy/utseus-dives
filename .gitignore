@@ -40,3 +40,6 @@ nbs/*-empty.ipynb
 nbs/WIP*.ipynb
 ai101-dossiers/
 ai101-prez/
+ai101
+ai201
+symlinks/

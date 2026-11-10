@@ -29,18 +29,19 @@ env/
 nbs/images/
 nbs/images-cleaned/
 nbs/tf_vae
+
+# WIP and temps files
+*/wip_*
+*/WIP_*
 **/temp/*
 
-# WIP documents
-*/wip_*
+# Development material
+/ai101/
+/ai201/
+/nbs-dev/
+/symlinks/
 
-# specifics
+# Rules for Privacy
 imgs/ft-fp.jpg
 imgs/uAI-team.jpg
-nbs/*-empty.ipynb
-nbs/WIP*.ipynb
-ai101-dossiers/
-ai101-prez/
-ai101
-ai201
-symlinks/
+
